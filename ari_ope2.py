@@ -1,0 +1,7 @@
+num1=(int(input("enter your first number: ")))
+num2=(int(input("enter your second number:" )))
+print(num1 + num2)
+print(num1 - num2)
+print("multiplication:",num1*num2)
+print("division:",num1/num2)
+print("modulus:",num1%num2)
