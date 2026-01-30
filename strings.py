@@ -1,3 +1,3 @@
-string = input('enter your string: ')
-
-print(len(string))
+str = input("enter your string: ")
+print(str[0])
+print(str[-1])
