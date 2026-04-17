@@ -1,6 +1,3 @@
-dict ={
-    "name":"lakshmi",
-    "age":20,
-    "city":"dvg"
-}
-print(dict)
+dict = {"name":"Ravi" , "age":20 }
+print(dict.keys())
+print(dict.values())
